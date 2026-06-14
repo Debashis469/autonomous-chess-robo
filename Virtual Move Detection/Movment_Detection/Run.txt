@@ -1,0 +1,5 @@
+For Restart:-
+python main.py --prev sample_data/1prev.jpg --after sample_data/1after.jpg --no-debug --reset-board
+
+For Continue the game:-
+python main.py --prev <new_prev.jpg> --after <new_after.jpg> --no-debug

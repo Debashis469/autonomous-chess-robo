@@ -1,0 +1,16 @@
+main.cpp
+solver.cpp
+board/fen.cpp
+board/board_to_fen.cpp
+move/makemove.cpp
+movegen/movegen.cpp
+movegen/legal.cpp
+search/search.cpp
+eval/eval.cpp
+eval/pieces/pawn.cpp
+eval/pieces/knight.cpp
+eval/pieces/bishop.cpp
+eval/pieces/rook.cpp
+eval/pieces/queen.cpp
+eval/pieces/king.cpp
+utils/move_to_string.cpp

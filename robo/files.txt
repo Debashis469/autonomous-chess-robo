@@ -1,0 +1,12 @@
+-std=c++17
+
+main.cpp
+kinematics/ik.cpp
+trajectory/trajectory.cpp
+motion/primitives.cpp
+motion/tasks.cpp
+control/serial_comm.cpp
+control/gripper.cpp
+robocontrol/robo_control.cpp
+utils/math_utils.cpp
+utils/chess_map.cpp
