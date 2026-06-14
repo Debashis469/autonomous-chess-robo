@@ -2,6 +2,11 @@
 
 An advanced chess-playing robot system that combines artificial intelligence, robotics, and computer vision to play chess autonomously. The system detects board state changes through computer vision, evaluates positions using a dedicated chess engine, controls a robotic arm to make moves, and communicates with human players.
 
+
+
+![ARM Chess Robot](assets/robo.gif)
+
+
 ## Overview
 
 This project implements a complete autonomous chess system with the following capabilities:
